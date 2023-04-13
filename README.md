@@ -1,2 +1,8 @@
-# DevAin-Addon-Slack
-DevAin Slack Support
+### DevAin - Slack Support
+
+DevAin - Slack Support는 Slack Bot 기능을 활성화시키기 위한 기반 프레임워크 애드온입니다.
+
+#### 프레임워크 필요 조건
+|     애드온 버전       |    필요 디펜던시        |    버전  | 
+| -------------------- | ---------------------- | -------- |
+|    1.0.0             |         Core           | >= 1.0.x | 
